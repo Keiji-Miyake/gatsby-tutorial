@@ -1,8 +1,8 @@
 {
-  "name": "totorial",
+  "name": "tutorial",
   "version": "1.0.0",
   "private": true,
-  "description": "Totorial",
+  "description": "Tutorial",
   "author": "Miyake Keiji",
   "keywords": [
     "gatsby"
